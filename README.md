@@ -4,7 +4,7 @@ A fun and playful **Love Compatibility Calculator** built with HTML, CSS, and Ja
 Enter your name and your crush’s name to see how much your hearts align!  
 It’s all for fun… but who knows, maybe destiny is real. ✨💘
 
-🌐 **Live Demo**: [Try it here!](https://catheringino.github.io/Love-Calculator/)
+🌐 **Live Demo**: [Try it here!](https://catheringino.github.io/LoveCalculator/)
 
 ---
 
@@ -29,7 +29,7 @@ It’s all for fun… but who knows, maybe destiny is real. ✨💘
 ---
 
 ## 🚀 How to Use
-1. Open the [Love Calculator](https://catheringino.github.io/Love-Calculator/).
+1. Open the [Love Calculator](https://catheringino.github.io/LoveCalculator/).
 2. Enter **your name** and **your crush's name**.
 3. Click **"Calculate Love"**.
 4. View your **love compatibility percentage** and enjoy the fun result.
@@ -40,9 +40,9 @@ It’s all for fun… but who knows, maybe destiny is real. ✨💘
 If you want to run this project locally:
 ```bash
 # Clone the repository
-git clone https://github.com/CatherinGino/Love-Calculator.git
+git clone https://github.com/CatherinGino/LoveCalculator.git
 
 # Open the folder
-cd Love-Calculator
+cd LoveCalculator
 
 # Open index.html in your browser
